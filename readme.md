@@ -1,6 +1,6 @@
 `Youtube.js` 
-is used to download any youtube video in 1080 quality,you just have insatll:-    
-`npm i ytdl-core`  
+is used to download any youtube video in 1080 quality,you just have insatll:-  
+`sudo apt install nodejs` 
 And then change the url link to your desired youtube video link(in the youtube.js file).  
 Then run the script file:-  
 `node youtube.js`   in your terminal/termux.  
